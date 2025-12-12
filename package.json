@@ -2,7 +2,7 @@
   "name": "todoproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abderahman600.github.io/javascript-libraries-and-frameworks/my-app",
+  "homepage": "https://abderahman600.github.io/todoproject/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",
     "@fortawesome/free-regular-svg-icons": "^7.1.0",
@@ -15,6 +15,7 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-scripts": "5.0.1",
+    "serve": "^14.2.5",
     "uuid": "^13.0.0",
     "web-vitals": "^2.1.4"
   },
